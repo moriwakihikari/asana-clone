@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+frontend/.next/
+
+# Go
+backend/bin/
+backend/tmp/
+
+# Generated
+README.html
+
+# OS
+.DS_Store
+*.swp
+
+# Docker volumes
+postgres_data/
+redis_data/
+
+# IDE
+.idea/
+.vscode/
+
+# Env
+.env
+.env.local
+
+# Temp
+tmp/
